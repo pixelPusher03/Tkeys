@@ -12,7 +12,6 @@ Hope you guys like this Project,then dont forget to give it a like.
 $ termux-setup-storage
 ```
 ```
-```
 $ pkg update && pkg upgrade && pkg install git -y
 ```
 ```
