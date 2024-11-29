@@ -8,7 +8,6 @@ in this this project you will see in special feature of adding extra keys(Button
 Hope you guys like this Project,then dont forget to give it a like.
 
 ### Installation Tkeys
-* `Commands` for termux
 ```
 $ termux-setup-storage
 ```
