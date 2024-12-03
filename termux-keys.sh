@@ -17,7 +17,7 @@ echo
 echo -en "\e[96m>>\e[92m Do you wish to see a practical video on it (y/n)? \e[m "
 read answer
 if [ "$answer" != "${answer#[Yy]}" ] ;then
-am start -a android.intent.action.VIEW -d https://youtu.be/MLqeKat5DU > /dev/null 2>&1
+am start -a android.intent.action.VIEW -d https://youtube.com/@the_developer03> /dev/null 2>&1
 else                                                                                  
 echo
 fi
