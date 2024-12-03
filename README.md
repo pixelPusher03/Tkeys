@@ -15,13 +15,13 @@ $ termux-setup-storage
 $ pkg update && pkg upgrade && pkg install git -y
 ```
 ```
-$ git clone https://github.com/Bhaviktutorials/Termux-Keys
+$ git clone https://github.com/pixelPusher03/TKeys
 ```
 ```
 $ ls
 ```
 ```
-$ cd Termux-Keys
+$ cd TKeys
 ```
 ```
 $ ls
@@ -35,5 +35,5 @@ $ bash termux-keys.sh
 
 * Single `Command` for termux
 ```
-$ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/Bhaviktutorials/Termux-Keys && ls && cd Termux-Keys && ls && chmod +x * && bash termux-keys.sh
+$ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y && git clone https://github.com/pixelPusher03/TKeys && ls && cd TKeys && ls && chmod +x * && bash termux-keys.sh
 ```
